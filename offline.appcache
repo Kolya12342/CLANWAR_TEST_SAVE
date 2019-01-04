@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1546549781
+#1546593934
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -35,11 +35,10 @@ images/sprite43-sheet0.png
 images/sprite45-sheet0.png
 images/sprite48-sheet0.png
 images/sprite50-sheet0.png
-images/sprite52-sheet0.png
 images/sprite63-sheet0.png
 images/sprite65-sheet0.png
 images/sprite67-sheet0.png
-images/sprite10-sheet0.png
+images/sprite88-sheet0.png
 images/sprite11-sheet0.png
 images/sprite23-sheet0.png
 images/sprite54-sheet0.png
@@ -75,6 +74,9 @@ images/mask-sheet1.png
 images/sprite56-sheet0.png
 images/Прицел-sheet0.png
 images/огонь-sheet0.png
+images/asas22-sheet0.png
+images/sd3-sheet0.png
+images/wes23-sheet0.png
 media/m4a1-1.ogg
 media/clanwar%20-%20official%20soundtrack.ogg
 icon-16.png
